@@ -1,11 +1,11 @@
 ### Hello! I'm Breno Felix 🤝🏻 
 🇧🇷 I'm from Brazil
 
-- 🔭 I’m currently working on back-end.
-- 🌱 I’m currently learning ruby on rails.
+- 🔭 I’m currently working on Full Stack.
+- 🌱 I’m currently learning React.js and Node.js.
 - 😄 Pronouns: he/his.
 - 📫 How to reach me: brenodev.felix@gmail.com
-- ⚡ Fun fact: I am an electrical engineer passionate about programming.
+- ⚡ Fun fact: I'm an electrical engineer passionate about programming.
 
 <div align="center">
   <a href="https://github.com/breno-felix">
